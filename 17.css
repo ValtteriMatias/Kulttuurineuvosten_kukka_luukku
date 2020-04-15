@@ -1,16 +1,44 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: black;
+    background-color: #dfdbd8;
   }
   
-  h1{
-    color: pink;
-  }
+h1{
+  color: #455954;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  padding-top: 20px;
+  
+}
 
-  img {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    width: 400px;
-  }
-  
+h3{
+  color: #455954;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 90%;
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+
+
+.wrapper {
+  color: #455954;
+  color: #9d7463;
+  background-color: #dfdbd8;
+  max-width: 60%; 
+  padding-left: 5%;
+  padding-right: 5%;
+  align-content: center;
+  margin: auto auto;
+  padding-bottom: 100px;
+}
+
+.sign{
+  font-family: cursive;
+  padding-left: 30px;
+  font-style: oblique;
+}
